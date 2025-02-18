@@ -2,6 +2,14 @@
 ## Books Tech People Never Read [and it shows]
 ##### Not one of those other shitty lists with the same Dostoevsky Jordan Peterson stuff
 
+## To Find A Book Online
+
+Google TITLE OF BOOK filetype:pdf
+
+For example
+
+Beyond Positive Thinking filetype:pdf
+
 ***
 
 ## Books
