@@ -23,7 +23,7 @@
 #### Universe
 
 - The Grand Scientific Theory of Music aka Interference by Richard Merrick
-- The Stranger / The Fall / The Plague by CAmus
+- The Stranger / The Fall / The Plague / The Rebel by CAmus
 
 #### Society
 - The Theory & Practice of Oligarchical Collectivism by Orwell/Goldstein
